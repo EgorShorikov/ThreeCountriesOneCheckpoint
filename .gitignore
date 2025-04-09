@@ -1,0 +1,10 @@
+# .gitignore для C#
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+*.dll
+*.exe
