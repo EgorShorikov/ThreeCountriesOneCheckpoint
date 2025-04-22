@@ -3,40 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|c:\\users\\user\\source\\repos\\threecountriesonecheckpoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|c:\\users\\user\\source\\repos\\threecountriesonecheckpoint\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|c:\\users\\user\\source\\repos\\threecountriesonecheckpoint\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|solutionrelative:views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|c:\\users\\user\\source\\repos\\threecountriesonecheckpoint\\models\\fisherman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|solutionrelative:models\\fisherman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|solutionrelative:views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|c:\\users\\user\\source\\repos\\threecountriesonecheckpoint\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|solutionrelative:controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|c:\\users\\user\\source\\repos\\threecountriesonecheckpoint\\models\\smoothdraggablepicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|solutionrelative:models\\smoothdraggablepicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|c:\\users\\user\\source\\repos\\threecountriesonecheckpoint\\models\\tourist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|solutionrelative:models\\tourist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|c:\\users\\user\\source\\repos\\threecountriesonecheckpoint\\pictures\\openbook-fotor-20250422221346.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|solutionrelative:pictures\\openbook-fotor-20250422221346.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|c:\\users\\user\\source\\repos\\threecountriesonecheckpoint\\pictures\\openbook.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|solutionrelative:pictures\\openbook.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|c:\\users\\user\\source\\repos\\threecountriesonecheckpoint\\pictures\\currencybook-fotor-20250422213837.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|solutionrelative:pictures\\currencybook-fotor-20250422213837.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|c:\\users\\user\\source\\repos\\threecountriesonecheckpoint\\pictures\\exit.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|solutionrelative:pictures\\exit.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|c:\\users\\user\\source\\repos\\threecountriesonecheckpoint\\pictures\\fishermanpng.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|solutionrelative:pictures\\fishermanpng.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|c:\\users\\user\\source\\repos\\threecountriesonecheckpoint\\pictures\\piratepng.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|solutionrelative:pictures\\piratepng.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|c:\\users\\user\\source\\repos\\threecountriesonecheckpoint\\models\\poorwoman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|solutionrelative:models\\poorwoman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|c:\\users\\user\\source\\repos\\threecountriesonecheckpoint\\models\\pirate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,12 +43,40 @@
       "RelativeMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|c:\\users\\user\\source\\repos\\threecountriesonecheckpoint\\views\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|solutionrelative:views\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+      "AbsoluteMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|c:\\users\\user\\source\\repos\\threecountriesonecheckpoint\\models\\poorwoman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|solutionrelative:models\\poorwoman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|c:\\users\\user\\source\\repos\\threecountriesonecheckpoint\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|solutionrelative:views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|c:\\users\\user\\source\\repos\\threecountriesonecheckpoint\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|solutionrelative:controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|c:\\users\\user\\source\\repos\\threecountriesonecheckpoint\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|c:\\users\\user\\source\\repos\\threecountriesonecheckpoint\\models\\fisherman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|solutionrelative:models\\fisherman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|c:\\users\\user\\source\\repos\\threecountriesonecheckpoint\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|c:\\users\\user\\source\\repos\\threecountriesonecheckpoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|c:\\users\\user\\source\\repos\\threecountriesonecheckpoint\\models\\tourist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|solutionrelative:models\\tourist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|c:\\users\\user\\source\\repos\\threecountriesonecheckpoint\\pictures\\piratepng.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|solutionrelative:pictures\\piratepng.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\views\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|solutionrelative:views\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06416349-960B-4136-A0B6-3FA8F0AEFAC9}|ThreeCountriesOneCheckpoint.csproj|c:\\users\\user\\source\\repos\\threecountriesonecheckpoint\\threecountriesonecheckpoint.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -66,89 +90,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Player.cs",
-              "RelativeDocumentMoniker": "Player.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Player.cs",
-              "RelativeToolTip": "Player.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T04:08:40.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T04:02:52.391Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Tourist.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Models\\Tourist.cs",
-              "RelativeDocumentMoniker": "Models\\Tourist.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Models\\Tourist.cs",
-              "RelativeToolTip": "Models\\Tourist.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T10:01:15.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GameController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Controllers\\GameController.cs",
-              "RelativeDocumentMoniker": "Controllers\\GameController.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Controllers\\GameController.cs",
-              "RelativeToolTip": "Controllers\\GameController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T10:03:58.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Fisherman.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Models\\Fisherman.cs",
-              "RelativeDocumentMoniker": "Models\\Fisherman.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Models\\Fisherman.cs",
-              "RelativeToolTip": "Models\\Fisherman.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAUwAcAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T10:00:15.319Z",
-              "EditorCaption": ""
+              "Title": "openBook-fotor-20250422221346.png - PNG [1280x498, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Pictures\\openBook-fotor-20250422221346.png",
+              "RelativeDocumentMoniker": "Pictures\\openBook-fotor-20250422221346.png",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Pictures\\openBook-fotor-20250422221346.png - PNG [1280x498, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "RelativeToolTip": "Pictures\\openBook-fotor-20250422221346.png - PNG [1280x498, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-22T17:16:35.828Z",
+              "EditorCaption": " - PNG [1280x498, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "SmoothDraggablePictureBox.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Models\\SmoothDraggablePictureBox.cs",
+              "RelativeDocumentMoniker": "Models\\SmoothDraggablePictureBox.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Models\\SmoothDraggablePictureBox.cs",
+              "RelativeToolTip": "Models\\SmoothDraggablePictureBox.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T14:31:19.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Views\\Form1.cs",
+              "RelativeDocumentMoniker": "Views\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Views\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]*",
+              "RelativeToolTip": "Views\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:37:44.23Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Views\\Form1.cs",
               "RelativeDocumentMoniker": "Views\\Form1.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Views\\Form1.cs",
-              "RelativeToolTip": "Views\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Views\\Form1.cs*",
+              "RelativeToolTip": "Views\\Form1.cs*",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAewCAAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T11:04:07.167Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "openBook.png - PNG [1280x640, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Pictures\\openBook.png",
+              "RelativeDocumentMoniker": "Pictures\\openBook.png",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Pictures\\openBook.png - PNG [1280x640, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "RelativeToolTip": "Pictures\\openBook.png - PNG [1280x640, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-22T19:00:57.522Z",
+              "EditorCaption": " - PNG [1280x640, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "currencyBook-fotor-20250422213837.png - PNG [504x597, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Pictures\\currencyBook-fotor-20250422213837.png",
+              "RelativeDocumentMoniker": "Pictures\\currencyBook-fotor-20250422213837.png",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Pictures\\currencyBook-fotor-20250422213837.png - PNG [504x597, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "RelativeToolTip": "Pictures\\currencyBook-fotor-20250422213837.png - PNG [504x597, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-22T19:00:59.419Z",
+              "EditorCaption": " - PNG [504x597, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "FishermanPNG.png - PNG [287x203, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Pictures\\FishermanPNG.png",
               "RelativeDocumentMoniker": "Pictures\\FishermanPNG.png",
@@ -160,7 +180,129 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
+              "Title": "exit.png - PNG [1320x1320, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Pictures\\exit.png",
+              "RelativeDocumentMoniker": "Pictures\\exit.png",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Pictures\\exit.png - PNG [1320x1320, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "RelativeToolTip": "Pictures\\exit.png - PNG [1320x1320, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-04-18T08:08:54.455Z",
+              "EditorCaption": " - PNG [1320x1320, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pirate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Models\\Pirate.cs",
+              "RelativeDocumentMoniker": "Models\\Pirate.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Models\\Pirate.cs",
+              "RelativeToolTip": "Models\\Pirate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:01:04.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Models\\Person.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Models\\Person.cs",
+              "RelativeToolTip": "Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:14:05.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Controllers\\GameController.cs",
+              "RelativeToolTip": "Controllers\\GameController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:03:58.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PoorWoman.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Models\\PoorWoman.cs",
+              "RelativeDocumentMoniker": "Models\\PoorWoman.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Models\\PoorWoman.cs",
+              "RelativeToolTip": "Models\\PoorWoman.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:00:50.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Fisherman.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Models\\Fisherman.cs",
+              "RelativeDocumentMoniker": "Models\\Fisherman.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Models\\Fisherman.cs",
+              "RelativeToolTip": "Models\\Fisherman.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:00:15.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-04-18T08:24:23.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T04:08:40.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T04:02:52.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Tourist.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Models\\Tourist.cs",
+              "RelativeDocumentMoniker": "Models\\Tourist.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Models\\Tourist.cs",
+              "RelativeToolTip": "Models\\Tourist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:01:15.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "PiratePNG.png - PNG [287x203, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Pictures\\PiratePNG.png",
               "RelativeDocumentMoniker": "Pictures\\PiratePNG.png",
@@ -172,46 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Pirate.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Models\\Pirate.cs",
-              "RelativeDocumentMoniker": "Models\\Pirate.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Models\\Pirate.cs",
-              "RelativeToolTip": "Models\\Pirate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T10:01:04.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Models\\Person.cs",
-              "RelativeDocumentMoniker": "Models\\Person.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Models\\Person.cs",
-              "RelativeToolTip": "Models\\Person.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T10:14:05.184Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PoorWoman.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Models\\PoorWoman.cs",
-              "RelativeDocumentMoniker": "Models\\PoorWoman.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Models\\PoorWoman.cs",
-              "RelativeToolTip": "Models\\PoorWoman.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T10:00:50.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "Form1.resx",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Views\\Form1.resx",
               "RelativeDocumentMoniker": "Views\\Form1.resx",
@@ -223,19 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Views\\Form1.cs",
-              "RelativeDocumentMoniker": "Views\\Form1.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\Views\\Form1.cs [Design]",
-              "RelativeToolTip": "Views\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T11:37:44.23Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "ThreeCountriesOneCheckpoint.csproj",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ThreeCountriesOneCheckpoint\\ThreeCountriesOneCheckpoint.csproj",
               "RelativeDocumentMoniker": "ThreeCountriesOneCheckpoint.csproj",

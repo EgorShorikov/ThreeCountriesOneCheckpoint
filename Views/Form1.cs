@@ -1,114 +1,197 @@
-﻿using System;
-using System.Drawing;
-using System.Windows.Forms;
+﻿using ThreeCountriesOneCheckpoint.Controler;
 using ThreeCountriesOneCheckpoint.Models;
-using ThreeCountriesOneCheckpoint.Controler;
 
 namespace ThreeCountriesOneCheckpoint.Views
 {
-    // Класс формы НЕ partial, т.к. Designer.cs не используется
     public class MainForm : Form
     {
-        // Элементы управления
         private Label lblName;
         private Label lblCountry;
         private Label lblDialogue;
         private Button btnAllow;
         private Button btnDeny;
         private PictureBox boxShowImage;
-        private PictureBox boxBackground;
+        private TableLayoutPanel mainTable;
+        private PictureBox boxCurrencyBook;
+        private Button btnCurrencyBook;
 
         private GameController _controller;
 
         public MainForm()
         {
-            // Настройка формы
-            this.Text = "Рыбный КПП";
-            this.ClientSize = new Size(400, 350);
+            this.Text = "ThreeCountriesOneCheckpoint";
+            this.ClientSize = new Size(1000, 800);
             this.BackColor = Color.WhiteSmoke;
+            this.MinimumSize = new Size(1000, 800);
 
-            // Создаем элементы вручную
-            CreateUI();
+            CreateUIWithTableLayout();
 
-            // Инициализация контроллера
             _controller = new GameController();
             UpdateUI();
         }
 
-        private void CreateUI()
+        private void CreateUIWithTableLayout()
         {
-            // Метка для имени
-            lblName = new Label
+            mainTable = new TableLayoutPanel
             {
-                AutoSize = true,
-                Location = new Point(600, 600),
-                Text = "Имя:",
-                Font = new Font("Arial", 12)
+                Dock = DockStyle.Fill,
+                ColumnCount = 2,
+                RowCount = 3,
+                CellBorderStyle = TableLayoutPanelCellBorderStyle.None,
+                BackColor = Color.Transparent
             };
-            this.Controls.Add(lblName);
 
-            // Метка для страны
-            lblCountry = new Label
+            mainTable.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 50F));
+            mainTable.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 50F));
+
+            mainTable.RowStyles.Add(new RowStyle(SizeType.Percent, 20F));
+            mainTable.RowStyles.Add(new RowStyle(SizeType.Percent, 30F));
+            mainTable.RowStyles.Add(new RowStyle(SizeType.Percent, 25F));
+            mainTable.RowStyles.Add(new RowStyle(SizeType.Percent, 25F));
+
+            Panel topPanel = new Panel { Dock = DockStyle.Fill, BackColor = Color.Green };
+            mainTable.Controls.Add(topPanel, 0, 0);
+            mainTable.SetColumnSpan(topPanel, 2);
+
+            Panel leftPanel = new Panel { Dock = DockStyle.Fill, BackColor = Color.LightBlue };
+            mainTable.Controls.Add(leftPanel, 0, 1);
+            Panel leftBottomPanel = new Panel { Dock = DockStyle.Fill, BackColor = Color.RosyBrown };
+            mainTable.Controls.Add(leftBottomPanel, 0, 2);
+            Panel leftBottomBottomPanel = new Panel { Dock = DockStyle.Fill, BackColor = Color.RosyBrown };
+            mainTable.Controls.Add(leftBottomBottomPanel, 0, 3);
+
+            Panel rightPanel = new Panel { Dock = DockStyle.Fill, BackColor = Color.Brown };
+            mainTable.Controls.Add(rightPanel, 1, 1);
+            mainTable.SetRowSpan(rightPanel, 3);
+
+            AddControlsToleftBottomBottomPanel(leftBottomBottomPanel);
+            AddControlsToLeftBottomPannel(leftBottomPanel);
+            AddControlsToTopPanel(topPanel);
+            AddControlsToLeftPanel(leftPanel);
+            AddControlsToRightPanel(rightPanel);
+
+            this.Controls.Add(mainTable);
+        }
+
+        private void AddControlsToleftBottomBottomPanel(Panel panel)
+        {
+            string originalImage2Path = "C:\\Users\\user\\source\\repos" +
+                "\\ThreeCountriesOneCheckpoint\\Pictures\\priceBook.png";
+            string alternateImage2Path = "C:\\Users\\user\\source\\repos" +
+                "\\ThreeCountriesOneCheckpoint\\Pictures\\openBook-fotor-20250422221346.png";
+            var doc2 = new SmoothDraggablePictureBox(originalImage2Path, alternateImage2Path)
             {
-                AutoSize = true,
-                Location = new Point(600, 650),
-                Text = "Страна:",
-                Font = new Font("Arial", 12)
+                Size = new Size(200, 200),
+                Location = new Point(100, 50)
             };
-            this.Controls.Add(lblCountry);
+            panel.Controls.Add(doc2);
+        }
 
-            // Метка для диалога
-            lblDialogue = new Label
+        private void AddControlsToTopPanel(Panel panel)
+        {
+
+        }
+
+        private void AddControlsToLeftBottomPannel(Panel panel)
+        {
+            string originalImage1Path = "C:\\Users\\user\\source\\repos" +
+                "\\ThreeCountriesOneCheckpoint\\Pictures\\currencyBook.png";
+            string alternateImage1Path = "C:\\Users\\user\\source\\repos" +
+                "\\ThreeCountriesOneCheckpoint\\Pictures\\pngwing.com.png";
+
+            var doc1 = new SmoothDraggablePictureBox(originalImage1Path, alternateImage1Path)
             {
-                AutoSize = true,
-                Location = new Point(50, 150),
-                Size = new Size(300, 60),
-                Text = "Диалог...",
-                Font = new Font("Arial", 10)
+                Size = new Size(200, 200),
+                Location = new Point(50, 50)
             };
-            this.Controls.Add(lblDialogue);
 
-            // Кнопка "Пропустить"
-            btnAllow = new Button
-            {
-                Location = new Point(50, 250),
-                Size = new Size(120, 40),
-                Text = "Пропустить",
-                BackColor = Color.LightGreen
-            };
-            btnAllow.Click += BtnAllow_Click;
-            this.Controls.Add(btnAllow);
 
-            // Кнопка "Отказать"
-            btnDeny = new Button
-            {
-                Location = new Point(200, 250),
-                Size = new Size(120, 40),
-                Text = "Отказать",
-                BackColor = Color.LightCoral
-            };
-            btnDeny.Click += BtnDeny_Click;
-            this.Controls.Add(btnDeny);
+            panel.Controls.Add(doc1);
+        }
 
+        private void AddControlsToLeftPanel(Panel panel)
+        {
             boxShowImage = new PictureBox
             {
-                SizeMode = PictureBoxSizeMode.Zoom,  // Важно для пропорционального отображения
-                Size = new Size(200, 200),           // Фиксированный размер
-                //Location = new Point(200, 0),       // Позиция справа от текста
-                //BorderStyle = BorderStyle.FixedSingle // Рамка для наглядности
+                Anchor = AnchorStyles.Top | AnchorStyles.Left,
+                Location = new Point(panel.Width / 2, panel.Height / 2),
+                Size = new Size(250, 250),
+                SizeMode = PictureBoxSizeMode.Zoom,
+                BackColor = Color.Transparent,
+                BorderStyle = BorderStyle.FixedSingle
             };
-            this.Controls.Add(boxShowImage);
+            panel.Controls.Add(boxShowImage);
 
-            // Увеличиваем размер формы, чтобы вместить PictureBox
-            //this.ClientSize = new Size(500, 350);
+            lblDialogue = new Label
+            {
+                Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right,
+                Location = new Point(220, 20),
+                Size = new Size(panel.Width - 40, 100),
+                Text = "Диалог...",
+                Font = new Font("Arial", 12, FontStyle.Bold),
+                BackColor = Color.Transparent,
+                ForeColor = Color.White
+            };
+            panel.Controls.Add(lblDialogue);
+
+            btnAllow = new Button
+            {
+                Anchor = AnchorStyles.Top | AnchorStyles.Left,
+                Location = new Point(20, 300),
+                Size = new Size(120, 40),
+                Text = "Продать честно",
+                BackColor = Color.LightGreen,
+                Font = new Font("Arial", 10)
+            };
+            btnAllow.Click += BtnAllow_Click;
+            panel.Controls.Add(btnAllow);
+
+            btnDeny = new Button
+            {
+                Anchor = AnchorStyles.Top | AnchorStyles.Left,
+                Location = new Point(panel.Width - 50, panel.Height / 2),
+                Size = new Size(120, 40),
+                Text = "Обмануть",
+                BackColor = Color.LightCoral,
+                Font = new Font("Arial", 10)
+            };
+            btnDeny.Click += BtnDeny_Click;
+            panel.Controls.Add(btnDeny);
+
+            lblName = new Label
+            {
+                Anchor = AnchorStyles.Top | AnchorStyles.Left,
+                Location = new Point(20, 240),
+                AutoSize = true,
+                Text = "Имя:",
+                Font = new Font("Arial", 12, FontStyle.Bold),
+                BackColor = Color.Transparent,
+                ForeColor = Color.White
+            };
+            panel.Controls.Add(lblName);
+
+            lblCountry = new Label
+            {
+                Anchor = AnchorStyles.Top | AnchorStyles.Left,
+                Location = new Point(20, 270),
+                AutoSize = true,
+                Text = "Страна:",
+                Font = new Font("Arial", 12, FontStyle.Bold),
+                BackColor = Color.Transparent,
+                ForeColor = Color.White
+            };
+            panel.Controls.Add(lblCountry);
+        }
+
+        private void AddControlsToRightPanel(Panel panel)
+        {
         }
 
         private void UpdateUI()
         {
             var person = _controller.GetCurrentPerson();
-            var path = Image.FromFile(person.PhotoPath);
-            boxShowImage.Image = path;
-            boxShowImage.Location = new Point(150,500); 
+            boxShowImage.Image = Image.FromFile(person.PhotoPath);
+
             lblName.Text = $"Имя: {person.Name}";
             lblCountry.Text = $"Страна: {person.Country}";
             lblDialogue.Text = person.Interact();
@@ -116,7 +199,6 @@ namespace ThreeCountriesOneCheckpoint.Views
 
         private void BtnAllow_Click(object sender, EventArgs e)
         {
-            // Логика пропуска
             var person = _controller.GetCurrentPerson();
             if (_controller.CheckContraband(person))
             {
@@ -128,9 +210,12 @@ namespace ThreeCountriesOneCheckpoint.Views
 
         private void BtnDeny_Click(object sender, EventArgs e)
         {
-            // Логика отказа
             _controller.IteratePerson();
             UpdateUI();
         }
+
     }
 }
+
+
+

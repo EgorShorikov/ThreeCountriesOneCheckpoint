@@ -10,7 +10,7 @@ namespace ThreeCountriesOneCheckpoint.Models
     {
         public Pirate()
         {
-            Name = "Эль Капитан";
+            Name = "Эдвард Тич";
             Country = "Парагвай";
             HasContraband = true;
             SecretMotivation = "Проносит оружие для банды";
@@ -20,7 +20,7 @@ namespace ThreeCountriesOneCheckpoint.Models
 
         public override string Interact()
         {
-            return "";
+            return "Продай мне самой лучшей рыбки";
         }
     }
 }
